@@ -3,6 +3,6 @@ Haberler sayfam BTK 2. gün
 
 ## biz bugün;
 * Body tasarımı - header, nav, artcile,footer
-*formlar
+* formlar
 
 ![](image.png)
