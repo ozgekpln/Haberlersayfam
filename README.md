@@ -1,8 +1,11 @@
 # Haberlersayfam1
-Haberler sayfam BTK 2. gün
+Haberler sayfam BTK Akademi **Erzurum** 2. gün
 
-## biz bugün;
+## biz *bugün*;
 * Body tasarımı - header, nav, artcile,footer
+
 * formlar
+
+Konularını gördük
 
 ![](image.png)
